@@ -11,12 +11,17 @@ The complementary material of the publication Flat Rent Price Prediction in Berl
 -- Generation of a Merged Data Set ---
 
 [C.1 Record - Linkage Procedure](https://htmlpreview.github.io/?https://github.com/meybergc/berlin_webscrapping/blob/master/C.1%20Record%20-%20Linkage.html)
+
 [C.2 Generating a Merged Dataset](https://htmlpreview.github.io/?https://github.com/meybergc/berlin_webscrapping/blob/master/C.2%20Generating%20a%20merged%20dataset.html)
+
 [C.3 Quick Look to the Merged Dataset (Exploratory Analysis)](https://htmlpreview.github.io/?https://github.com/meybergc/berlin_webscrapping/blob/master/C.3%20Quick%20look%20to%20the%20merged%20dataset.html)
 
 -- Modeling --
 
 [C.4 Multiple Imputation Model](https://htmlpreview.github.io/?https://github.com/meybergc/berlin_webscrapping/blob/master/C.4%20Multiple%20imputation%20model.html)
+
 [C.5 Ordinary Least Squares](https://htmlpreview.github.io/?https://github.com/meybergc/berlin_webscrapping/blob/master/C.5%20Ordinary%20Least%20Squares.html)
+
 [C.6 Ordinary Least Squares with Heteroskedasticity-Robust Standard Errors (HCSE)](https://htmlpreview.github.io/?https://github.com/meybergc/berlin_webscrapping/blob/master/C.6%20Ordinary%20Least%20Squares%20with%20heteroskedasticity-robust%20standard%20errors%20(HCSE).html)
+
 [C.7 Structured Additive Model (Bayesian Additive Model)](https://htmlpreview.github.io/?https://github.com/meybergc/berlin_webscrapping/blob/master/C.7%20Structured%20Additive%20Models.html)
